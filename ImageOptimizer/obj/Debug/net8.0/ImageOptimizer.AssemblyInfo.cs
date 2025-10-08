@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImageOptimizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ce3259dfb78d53f7da87b85fe5b01dbe32acfa3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cc8308139ac872b1c48bace1b6907ad3d77fcaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImageOptimizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImageOptimizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
