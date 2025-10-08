@@ -1,0 +1,14 @@
+/home/alexandre-benachir/Bureau/csharp/CSharp/bin/Debug/net8.0/CSharp
+/home/alexandre-benachir/Bureau/csharp/CSharp/bin/Debug/net8.0/CSharp.deps.json
+/home/alexandre-benachir/Bureau/csharp/CSharp/bin/Debug/net8.0/CSharp.runtimeconfig.json
+/home/alexandre-benachir/Bureau/csharp/CSharp/bin/Debug/net8.0/CSharp.dll
+/home/alexandre-benachir/Bureau/csharp/CSharp/bin/Debug/net8.0/CSharp.pdb
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfoInputs.cache
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.AssemblyInfo.cs
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.csproj.CoreCompileInputs.cache
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.dll
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/refint/CSharp.dll
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.pdb
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/CSharp.genruntimeconfig.cache
+/home/alexandre-benachir/Bureau/csharp/CSharp/obj/Debug/net8.0/ref/CSharp.dll

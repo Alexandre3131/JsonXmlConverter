@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4UUQp2namUdQhPvVut6mhU4n5ddxkqk2lW9lqi2/iVUZE/yNBBJcJV1p0C4IIEoG5ZM9SyDebZ4Ueqc3ohInxA==",
+  "success": true,
+  "projectFilePath": "/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/JsonXmlConverter.csproj",
+  "expectedPackageFiles": [
+    "/home/alexandre-benachir/.nuget/packages/newtonsoft.json/13.0.4/newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

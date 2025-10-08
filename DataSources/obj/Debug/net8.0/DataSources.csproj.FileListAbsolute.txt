@@ -1,0 +1,14 @@
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/Json/Albums.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/Text/Albums.txt
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/XML/Albums.xml
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/DataSources.deps.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/DataSources.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/bin/Debug/net8.0/DataSources.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.AssemblyInfoInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.AssemblyInfo.cs
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.csproj.CoreCompileInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/refint/DataSources.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/DataSources.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/DataSources/obj/Debug/net8.0/ref/DataSources.dll

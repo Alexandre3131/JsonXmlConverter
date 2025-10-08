@@ -1,0 +1,17 @@
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/JsonXmlConverter
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/JsonXmlConverter.deps.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/JsonXmlConverter.runtimeconfig.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/JsonXmlConverter.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/JsonXmlConverter.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.AssemblyInfoInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.AssemblyInfo.cs
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.csproj.CoreCompileInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/refint/JsonXmlConverter.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.genruntimeconfig.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/ref/JsonXmlConverter.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.csproj.AssemblyReference.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.csproj.CopyComplete
