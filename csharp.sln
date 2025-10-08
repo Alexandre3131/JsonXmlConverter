@@ -8,6 +8,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExercicePresentationNet
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonXmlConverter", "JsonXmlConverter\JsonXmlConverter.csproj", "{6D9DB8D5-4980-403B-8941-57BC936C8909}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculPerf", "CalculPerf\CalculPerf.csproj", "{696CF033-FE31-44F7-991C-CE4C77FFDAD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageOptimizer", "ImageOptimizer\ImageOptimizer.csproj", "{CF59DF89-2997-4752-87FB-75251B78237D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +30,14 @@ Global
 		{6D9DB8D5-4980-403B-8941-57BC936C8909}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D9DB8D5-4980-403B-8941-57BC936C8909}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D9DB8D5-4980-403B-8941-57BC936C8909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696CF033-FE31-44F7-991C-CE4C77FFDAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696CF033-FE31-44F7-991C-CE4C77FFDAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696CF033-FE31-44F7-991C-CE4C77FFDAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696CF033-FE31-44F7-991C-CE4C77FFDAD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF59DF89-2997-4752-87FB-75251B78237D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF59DF89-2997-4752-87FB-75251B78237D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF59DF89-2997-4752-87FB-75251B78237D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF59DF89-2997-4752-87FB-75251B78237D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

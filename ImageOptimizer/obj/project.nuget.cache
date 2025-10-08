@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LUwJhv8yjuqDMKs+d74sweMo7CjC3h8ywH8DO8cjZXPuj3xRWAeoyUD9XdrXF1vGKz89TS0H0Pe6kZC8wTZnVA==",
+  "success": true,
+  "projectFilePath": "/home/alexandre-benachir/Bureau/CSharpAvance2025/ImageOptimizer/ImageOptimizer.csproj",
+  "expectedPackageFiles": [
+    "/home/alexandre-benachir/.nuget/packages/sixlabors.imagesharp/3.1.11/sixlabors.imagesharp.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

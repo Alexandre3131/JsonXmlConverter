@@ -1,0 +1,15 @@
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/bin/Debug/net8.0/CalculPerf
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/bin/Debug/net8.0/CalculPerf.deps.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/bin/Debug/net8.0/CalculPerf.runtimeconfig.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/bin/Debug/net8.0/CalculPerf.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/bin/Debug/net8.0/CalculPerf.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.AssemblyInfoInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.AssemblyInfo.cs
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.csproj.CoreCompileInputs.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.sourcelink.json
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/refint/CalculPerf.dll
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.pdb
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/CalculPerf.genruntimeconfig.cache
+/home/alexandre-benachir/Bureau/CSharpAvance2025/CalculPerf/obj/Debug/net8.0/ref/CalculPerf.dll
