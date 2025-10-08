@@ -1,0 +1,33 @@
+# === Fichiers et dossiers générés par .NET ===
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# === Dossiers temporaires ===
+.vs/
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
+
+# === Données du projet ===
+# On ne versionne pas les images générées ni redimensionnées
+imagesDownloaded/
+resizedSequential/
+resizedParallel/
+images/
+
+# === Systèmes d’exploitation ===
+.DS_Store
+Thumbs.db
+
+# === Sauvegardes ou archives ===
+*.zip
+*.tar
+*.7z
+*.bak
+*.old
