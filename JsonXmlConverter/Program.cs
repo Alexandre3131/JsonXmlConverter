@@ -55,36 +55,7 @@ while (true)
 
             if (choix == "1")
             {
-                Console.Write("\nEntrez un mot-clé à rechercher : ");
-                string? motCle = Console.ReadLine();
-
-                if (string.IsNullOrWhiteSpace(motCle))
-                {
-                    Console.WriteLine("Mot-clé vide, retour au menu.\n");
-                    continue;
-                }
-
-                var resultats = jsonData
-                                .SelectTokens("$..*")
-                                .OfType<Newtonsoft.Json.Linq.JValue>()
-                                .Where(v => v.Value<string>()?.Contains(motCle, StringComparison.OrdinalIgnoreCase) == true)
-                                .Select(v => $"{v.Path} : {v.Value}")
-                                .ToList();
-
-
-
-                Console.WriteLine($"\n--- Résultats de la recherche pour '{motCle}' ---");
-
-                if (resultats.Any())
-                {
-                    foreach (var r in resultats)
-                        Console.WriteLine(r);
-                }
-                else
-                {
-                    Console.WriteLine("Aucun résultat trouvé.");
-                }
-
+                jsonData = RechercherJson(jsonData);
                 continue;
             }
             else if (choix == "2")
@@ -117,8 +88,54 @@ while (true)
     }
 }
 
-static XElement JsonToXml(JToken token, string name)
+static JToken RechercherJson(JToken jsonData)
 {
+    Console.Write("\nEntrez un mot-clé à rechercher : ");
+    string? motCle = Console.ReadLine();
+
+    if (string.IsNullOrWhiteSpace(motCle))
+    {
+        Console.WriteLine("Mot-clé vide, retour au menu.\n");
+        return jsonData;
+    }
+
+    var valeurs = jsonData
+        .SelectTokens("$..*")
+        .OfType<Newtonsoft.Json.Linq.JValue>()
+        .Where(v => v.Value<string>()?.Contains(motCle, StringComparison.OrdinalIgnoreCase) == true)
+        .ToList();
+
+    if (!valeurs.Any())
+    {
+        Console.WriteLine("Aucun résultat trouvé.\n");
+        return jsonData;
+    }
+
+    var array = new JArray();
+
+    foreach (var val in valeurs)
+    {
+        string keyName = val.Path.Split('.').Last();
+        string safeKey = new string(keyName.Select(c =>
+            char.IsLetterOrDigit(c) ? c : '_').ToArray());
+
+        var obj = new JObject { [safeKey] = new JValue(val.Value) };
+        array.Add(obj);
+    }
+
+    Console.WriteLine($"\n--- {valeurs.Count} résultat(s) trouvé(s) ---");
+
+    string[] lines = array.ToString(Newtonsoft.Json.Formatting.Indented)
+                            .Split('\n');
+
+    foreach (var line in lines)
+        Console.WriteLine(line);
+
+    return array;
+}
+
+static XElement JsonToXml(JToken token, string name)
+{   
     if (token is JObject obj)
     {
         return new XElement(name,

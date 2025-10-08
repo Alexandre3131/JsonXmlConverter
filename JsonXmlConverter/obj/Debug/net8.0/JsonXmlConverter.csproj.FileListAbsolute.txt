@@ -15,3 +15,4 @@
 /home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/bin/Debug/net8.0/Newtonsoft.Json.dll
 /home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.csproj.AssemblyReference.cache
 /home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.csproj.CopyComplete
+/home/alexandre-benachir/Bureau/CSharpAvance2025/JsonXmlConverter/obj/Debug/net8.0/JsonXmlConverter.sourcelink.json
